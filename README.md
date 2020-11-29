@@ -9,7 +9,7 @@ The famous game Zoo Tycoon !
 This game uses [SFML Library](https://www.sfml-dev.org/documentation/2.5.0/)
 
 
- #Preview
+ # Preview
 
 ![ZooGif](https://user-images.githubusercontent.com/59437547/100543692-40c48b00-325a-11eb-90a1-9fbba730816f.gif)
 
