@@ -21,7 +21,7 @@ This game uses [SFML Library](https://www.sfml-dev.org/documentation/2.5.0/)
   <h3> Windows </h3>
 
 * Download Visual C++ 15 (2019) - 32-bit from this [link](https://visualstudio.microsoft.com/vs/older-downloads/)
-* Download SFML [instalation](https://drive.google.com/file/d/1VIpjt30cMSbC01n43IbfgElAK2C6V3R_/view)
+* Download SFML [installation](https://drive.google.com/file/d/1VIpjt30cMSbC01n43IbfgElAK2C6V3R_/view)
 * Download SFML-2.5.0v library from [this link](https://www.sfml-dev.org/download/sfml/2.5.0/)
 * Extract SFML-2.5.0v to SFML instalation folder and run as administrator SFMLInstall.bat
 
