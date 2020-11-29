@@ -5,7 +5,7 @@
 
 The famous game Zoo Tycoon !
 
-Develop by Ron Rubin and [Rima Ronen](https://github.com/rimaronen)
+Develop by [Ron Rubin](https://github.com/RonRu) and [Rima Ronen](https://github.com/rimaronen)
  
 This game uses [SFML Library](https://www.sfml-dev.org/documentation/2.5.0/)
 
