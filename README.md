@@ -3,7 +3,7 @@
 
 <h2> Introduction </h2>
 
-The famous game Zoo Tycoon !
+The famous game **Zoo Tycoon !
 
 Develop by [Ron Rubin](https://github.com/RonRu) and [Rima Ronen](https://github.com/rimaronen)
  
