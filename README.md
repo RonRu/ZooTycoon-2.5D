@@ -36,4 +36,5 @@ This game uses [SFML Library](https://www.sfml-dev.org/documentation/2.5.0/)
 
 <h2> Building the solution </h2>
 <h3> Windows </h3>
+
 * Open ZooTycoon solution in Microsoft VS 2019 and click on build  the solution.
